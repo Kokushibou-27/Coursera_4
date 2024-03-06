@@ -1,1 +1,1 @@
-# Coursera_4
+Assignment 4 with JavaScript
